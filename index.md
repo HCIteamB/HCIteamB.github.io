@@ -9,12 +9,12 @@ interact and managed the neighborhood by online means.
 Our project aim is to help citizen association digitalized their database, social help system and almost all of their communities facilities
 
 # Our Best Features #
-- [ ] manajemen RW
-- [ ] Database Center
-- [ ] LaporRW
-- [ ] Chatt warga
-- [ ] Eksplorasi RW
-- [ ] UMKM Search
-- [ ] Data Bansos
+- manajemen RW
+- Database Center
+- LaporRW
+- Chatt warga
+- Eksplorasi RW
+- UMKM Search
+- Data Bansos
 
 ## Screenshoot of our apps ##

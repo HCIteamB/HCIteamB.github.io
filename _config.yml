@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
 title: RWpintar
 description: The Best way to manage your Community
-logo: /assets/LOGO.png
+logo: ./assets/LOGO.png
 

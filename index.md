@@ -18,3 +18,10 @@ Our project aim is to help citizen association digitalized their database, socia
 - Data Bansos
 
 ## Screenshoot of our apps ##
+
+---------
+
+- **landing page**
+[landing page](./assets/landing page.png)
+- **Eksplorasi RW**
+[Eksplorasi rw](./assets/Eksplorasi RW.png)

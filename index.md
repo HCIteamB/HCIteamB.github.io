@@ -22,6 +22,9 @@ Our project aim is to help citizen association digitalized their database, socia
 ---------
 
 - **landing page**
+
 ![landing page](./assets/landing page.png)
+
 - **Eksplorasi RW**
+    
 ![Eksplorasi rw](./assets/Eksplorasi RW.png)

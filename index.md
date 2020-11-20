@@ -1,4 +1,4 @@
-[Main Repository](https://github.com/HCIteamB/RWpintar)  |  [Check Our progress]()  
+[Main Repository](https://github.com/HCIteamB/RWpintar)  |  [Check Our progress](https://hciteamb.github.io/updates)  
 
 It's already almost 1 year after the start of coronavirus outbreak.
 one of the problem arise from this outbreak is related to reduced social interaction between people in communities, especially in the
